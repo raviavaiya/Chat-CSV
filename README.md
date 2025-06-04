@@ -3,7 +3,7 @@
 This is a Python application that enables you to load a CSV file and ask questions about its contents using natural language. The application leverages Language Models (LLMs) to generate responses based on the CSV data. The LLM will only provide answers related to the information present in the CSV.
 <img align="right" alt="Coding" width="700" src="https://github.com/raviavaiya/Chat-CSV/blob/main/csv%20bot.png">
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 - Streamlit
 - LangChain
@@ -11,7 +11,7 @@ This is a Python application that enables you to load a CSV file and ask questio
 - python-dotenv
 - create csv agent
 
-## How it works
+# How it works
 
 The application reads the CSV file and processes the data. It utilizes OpenAI LLMs alongside with Langchain Agents in order to answer your questions. The CSV agent then uses tools to find solutions to your questions and generates an appropriate response with the help of a LLM.
 

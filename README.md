@@ -1,7 +1,7 @@
 # Langchain Chat-CSV with LLM
 
 This is a Python application that enables you to load a CSV file and ask questions about its contents using natural language. The application leverages Language Models (LLMs) to generate responses based on the CSV data. The LLM will only provide answers related to the information present in the CSV.
-<img align="right" alt="Coding" width="400" src="https://github.com/raviavaiya/Chat-CSV/blob/main/csv%20bot.png">
+<img align="right" alt="Coding" width="1000" src="https://github.com/raviavaiya/Chat-CSV/blob/main/csv%20bot.png">
 
 ## 🛠️ Tech Stack
 

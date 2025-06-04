@@ -1,0 +1,6 @@
+dotenv
+PyPDF2
+streamlit
+langchain
+langchain_community
+streamlit_extras
